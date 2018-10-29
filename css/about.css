@@ -1,0 +1,19 @@
+
+#about {
+    margin-top: 200px;
+    position: relative;
+}
+
+#navig {
+    margin-bottom: 25px;
+}
+
+.card-image {
+    background: url("../img/home\ page.jpg")no-repeat center center;
+    background-size: cover;
+}
+
+.aboutColor {
+    color: #1de9b6;
+    font-size: 20px;
+}
